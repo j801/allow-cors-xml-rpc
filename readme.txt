@@ -5,6 +5,8 @@ Description: This plugin Allow CORS for XML-RPC API in WordPress 3.5+.
 Version: 0.1
 Author: YUKI OKAMOTO (HN:Justice)
 Author URI: http://press.monaca.mobi/
+Contributors: YUKI OKAMOTO (HN:Justice) 
+Tags: cors,xml-rpc,http header,Access-Control-Allow-Origin,Access-Control-Allow-Headers
 Requires at least: 3.6.0
 Tested up to: 3.6
 License: GPLv2 or later
