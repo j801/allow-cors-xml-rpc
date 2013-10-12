@@ -2,6 +2,8 @@
 /*
 Plugin Name: Allow CORS XML-RPC
 Plugin URI: https://github.com/j801/allow_cors_xml_rpc
+Contributors: YUKI OKAMOTO (HN:Justice) 
+Tags: cors,xml-rpc,http header,Access-Control-Allow-Origin,Access-Control-Allow-Headers
 Description: This plugin Allow CORS for XML-RPC API in WordPress 3.5+.
 Version: 0.1
 Author: YUKI OKAMOTO (HN:Justice)
